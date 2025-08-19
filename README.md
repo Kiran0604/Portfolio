@@ -1,7 +1,5 @@
 ## Kiran R Aithal – Portfolio Website
 
-🌐 **Live Site:** [lemon-plant-029059b00.2.azurestaticapps.net](https://lemon-plant-029059b00.2.azurestaticapps.net/)
-
 A modern, responsive portfolio to showcase my skills, projects, and achievements as a Data Science & Full Stack enthusiast.
 
 ---
@@ -27,17 +25,6 @@ A modern, responsive portfolio to showcase my skills, projects, and achievements
 - **Frontend:** React (via CDN), HTML5, CSS3
 - **Backend:** Node.js, Express.js (for API & static serving)
 - **Deployment:** Azure Static Web Apps
-
----
-
-### 📦 How to Use
-1. **View Online:**
-	- Just visit the [Live Site](https://lemon-plant-029059b00.2.azurestaticapps.net/)
-2. **Run Locally:**
-	- Clone this repo
-	- `npm install`
-	- `npm start` and open `http://localhost:3000`
-	- Or open `index.html` directly for a static preview
 
 ---
 
